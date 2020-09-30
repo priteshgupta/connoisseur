@@ -1,4 +1,4 @@
-## Connoisseur: Free Website Template
+## Connoisseur: Free amazing and mesmerizing Website Template
 
 Connoisseur is a **bold** and **modern** website template suitable for websites pertaining to fine arts, cuisines, dining etc. It is **cross browser compatible** made using **HTML5** and **CSS3** with
 inbuilt **web font**, necessary **jQuery plugins**and much more. You are free to use it for your personal as well as commercial projects. It is released under **New BSD License**, read more about it at
