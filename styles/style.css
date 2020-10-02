@@ -234,6 +234,7 @@ a {
 	text-shadow: 0 0 1px rgba(0, 0, 0, 1);
 	text-decoration: none;
 	font-size: 20px;
+	box-shadow: 4px 2px 2px gray;
 }
 .reservations .button {
 	padding: 5px 50px;
